@@ -1,6 +1,7 @@
 # This is a gitignore file. Folders and file types in here will not
 ehmatthes-pcc_2e-1.1-2-g078318e
 try_it_yourself
+images
 
 # be added to version control and will not be uploaded to Github.
 # For example we ignore the hidden files from Pycharm and VS Code.
